@@ -6,5 +6,6 @@ public class Main {
         System.out.println("------------------");
         System.out.println("* Projeto_no_Git *");
         System.out.println("------------------");
+        System.out.println("        FIM       ");
     }
 }
